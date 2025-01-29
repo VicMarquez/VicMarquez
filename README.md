@@ -2,8 +2,6 @@
 
 🌱 Ecologist interested in how environmental changes affect interactions between plants and pollinators.
 
-📊 Currently working on a meta-analysis about plant phenology and climate change.
-
 📚 I love statistics and data analysis, with experience in mixed models, machine learning, and multivariate analysis.
 
 💻 Proficient in R and Python.
