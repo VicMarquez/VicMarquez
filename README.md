@@ -2,7 +2,7 @@
 
 🌱 Ecologist interested in how environmental changes affect interactions between plants and pollinators.
 
-📊 Currently working on a meta-analysis about plant phenology and climate change, also exploring information gaps in pollinators and South America.
+📊 Currently working on a meta-analysis about plant phenology and climate change.
 
 📚 I love statistics and data analysis, with experience in mixed models, machine learning, and multivariate analysis.
 
