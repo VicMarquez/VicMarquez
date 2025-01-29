@@ -14,4 +14,6 @@
 
 🥋 Passionate about martial arts, I find balance and inspiration in the discipline and philosophy of the practice
 
-📫 How to reach me: vmarquez053@gmail.com 
+🔗 Connect with me on LinkedIn [here](https://www.linkedin.com/in/vicmarquez/)
+
+🔬 You can explore my research work and publications [here](https://www.researchgate.net/profile/Victoria-Marquez?ev=hdr_xprf)
