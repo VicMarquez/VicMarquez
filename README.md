@@ -17,3 +17,5 @@
 🔗 Connect with me on LinkedIn [here](https://www.linkedin.com/in/vicmarquez/)
 
 🔬 You can explore my research work and publications [here](https://www.researchgate.net/profile/Victoria-Marquez?ev=hdr_xprf)
+
+![Descripción de la imagen](URL_de_la_imagen)
