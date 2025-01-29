@@ -18,4 +18,4 @@
 
 🔬 You can explore my research work and publications [here](https://www.researchgate.net/profile/Victoria-Marquez?ev=hdr_xprf)
 
-![Descripción de la imagen](URL_de_la_imagen)
+[field work in the arid Chaco 💚](/.jpg)
