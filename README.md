@@ -1,4 +1,4 @@
-                                                        👋 Hi! I'm Victoria Marquez
+                                                    👋 Hi! I'm Victoria Marquez
 
 🌱 Ecologist interested in how environmental changes affect interactions between plants and pollinators.
 
@@ -8,7 +8,7 @@
 
 👩‍🏫 I enjoy teaching and scientific outreach.
 
-📄 My doctoral thesis focused on the impacts of land use changes on ecological systems, adding valuable insights to my research.
+📄 My doctoral thesis focused on the impacts of land use changes on ecological systems
 
 🥋 Passionate about martial arts, I find balance and inspiration in the discipline and philosophy of the practice
 
