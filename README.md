@@ -6,7 +6,7 @@
 
 💻 Proficient in R and Python.
 
-👩‍🏫 I enjoy teaching and scientific outreach.
+👩‍🏫 I enjoy teaching and scientific outreach, science is just as much about people as it is about data.
 
 📄 My doctoral thesis focused on the impacts of land use changes on ecological systems
 
